@@ -11,7 +11,7 @@
 
 ### 🔥 **About Me**
 🚀 **AI Developer** | Passionate about **ML, MLOps & CV** | Building **Scalable AI Systems**  
-💡 **Exploring:** FastAPI, Model Optimization, OpenCV, Cloud AI  
+💡 **Exploring:** FastAPI, Model Optimization, OpenCV, Cloud AI, **Web Development**  
 📫 **Connect:** [LinkedIn](https://linkedin.com/in/your-linkedin) | [GitHub](https://github.com/aushmish)  
 
 ---
@@ -22,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="75" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75" />
