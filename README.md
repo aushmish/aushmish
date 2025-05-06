@@ -2,16 +2,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Aushmish!
 </h1>
 
-<h3 align="center">🚀 AI | ML | Computer Vision | MLOps</h3>
+<h3 align="center">🚀 AI | ML | Computer Vision | MLOps | Web Dev Enthusiast</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&width=600&lines=AI+%7C+Machine+Learning+%7C+MLOps;Computer+Vision+%7C+Deep+Learning;Deploying+ML+Models+with+APIs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&width=600&lines=Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+OpenCV;Deploying+ML+Models+with+APIs;Learning+Full+Stack+Web+Development" />
 </p>
 
 ---
 
 ### 🔥 **About Me**
-🚀 **AI Developer** | Passionate about **ML, MLOps & CV** | Building **Scalable AI Systems**  
-💡 **Exploring:** FastAPI, Model Optimization, OpenCV, Cloud AI, **Web Development**  
+Passionate about **ML, Deep Learning & OpenCV**  
+💡 **Currently learning:** **Web Development** | **Aspiring Web Developer**  
 📫 **Connect:** [LinkedIn](https://linkedin.com/in/your-linkedin) | [GitHub](https://github.com/aushmish)  
 
 ---
