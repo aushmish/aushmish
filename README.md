@@ -10,7 +10,7 @@
 ---
 
 ### 🔥 **The Profile**
-I build interfaces that breathe. Moving from a background in **Machine Learning & Computer Vision** into the world of **High-Fidelity Product Design**, I bring a technical edge to visual storytelling.
+I build interfaces that breathe. Moving into the world of **High-Fidelity Product Design**, I bring a technical edge to visual storytelling.
 
 * 🎨 **Design Stack:** Figma, Adobe Photoshop, Adobe Illustrator.
 * 💻 **Tech Stack:** Framer, HTML5, CSS3, JavaScript (ES6+).
